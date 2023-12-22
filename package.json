@@ -27,8 +27,8 @@
   },
   "exports": {
     ".": {
-      "types": "./plugin.d.ts",
-      "default": "./plugin.js"
+      "types": "./lib/plugin.d.ts",
+      "default": "./lib/plugin.js"
     }
   },
   "files": [
